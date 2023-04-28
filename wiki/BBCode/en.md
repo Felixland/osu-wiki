@@ -342,3 +342,4 @@ The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums 
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
 - Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
+- As of April 28th, 2023, there's a button in the text editor labeled `Help` that directs the user to this page.
